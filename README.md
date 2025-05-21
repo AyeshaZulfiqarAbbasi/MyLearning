@@ -1,5 +1,6 @@
 Android Development Learning README
 This README outlines the main topics and subtopics covered during Android development learning with Java and Kotlin, designed for quick revision.
+
 Table of Contents
 
 Android Basics
